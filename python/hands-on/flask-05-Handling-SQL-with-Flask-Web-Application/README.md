@@ -81,13 +81,14 @@ At the end of the this hands-on training, students will be able to;
 - Update the installed packages and package cache on your instance.
 
 - Install `Python 3` packages.
-
+- sudo yum update -y
+- sudo pip3 install flask
+- sudo pip3 install flask-mysql
+- sudo pip3 install sqlalchemy
+- sudo pip3 install Flask-SQLAlchemy
 - Check the python3 version
-
 - Install `Python 3 Flask` framework.
-
 - Install `flask_mysql`.
-
 - Run application with Python
 
 
